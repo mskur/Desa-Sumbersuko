@@ -4,12 +4,12 @@
 <main id="main" class="main">
 
     <div class="pagetitle">
-      <h1>Data Tables</h1>
+      <h1>Konten Desa</h1>
       <nav>
         <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-          <li class="breadcrumb-item">Tables</li>
-          <li class="breadcrumb-item active">Data</li>
+          <li class="breadcrumb-item"><a href="index.html">Admin</a></li>
+          <li class="breadcrumb-item">Konten</li>
+          <li class="breadcrumb-item active">viewAllKonten</li>
         </ol>
       </nav>
     </div><!-- End Page Title -->
@@ -20,7 +20,7 @@
 
           <div class="card">
             <div class="card-body">
-              <h5 class="card-title">Datatables</h5>
+              <h5 class="card-title">Semua Konten</h5>
               <a href="<?= base_url('Admin/Konten/addKonten');?>" class="btn btn-primary mb-3">Add Konten</a>
 
               <!-- Table with stripped rows -->

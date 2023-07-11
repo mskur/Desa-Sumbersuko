@@ -4,12 +4,12 @@
 <main id="main" class="main">
 
     <div class="pagetitle">
-      <h1>Alerts</h1>
+      <h1>Pengumuman</h1>
       <nav>
         <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-          <li class="breadcrumb-item">Components</li>
-          <li class="breadcrumb-item active">Alerts</li>
+          <li class="breadcrumb-item"><a href="index.html">Admin</a></li>
+          <li class="breadcrumb-item">Konten</li>
+          <li class="breadcrumb-item active">Pengumuman</li>
         </ol>
       </nav>
     </div><!-- End Page Title -->
